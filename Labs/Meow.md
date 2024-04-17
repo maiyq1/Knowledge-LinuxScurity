@@ -1,5 +1,4 @@
-#hackthebox
-
+#hackthebox #very-easy
 Primera parte: Preguntas teóricas
 
 - **VM**
