@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4c99faca73d328a0",
+        "id": "65c7820fd8a35d5b",
         "type": "tabs",
         "children": [
           {
-            "id": "5e0068e2d23fa924",
+            "id": "6fe00411b6bae681",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labs/Fawn.md",
+                "file": "Labs/Dancing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Labs/Fawn.md",
+                "file": "Labs/Dancing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Labs/Fawn.md",
+                "file": "Labs/Dancing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Labs/Fawn.md"
+                "file": "Labs/Dancing.md"
               }
             }
           }
@@ -146,11 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e0068e2d23fa924",
+  "active": "b5ba00cac37466a2",
   "lastOpenFiles": [
-    "LabFawn6.md",
+    "zImages/LabDancing/LabDancing3.png",
+    "zImages/LabDancing/LabDancing2.png",
+    "zImages/LabDancing/LabDancing1.png",
+    "Labs/Dancing.md",
     "Labs/Fawn.md",
-    "LabFawn6.png",
+    "CheatSheet/nmap.md",
+    "Labs/Untitled",
+    "zImages/LabDancing",
+    "LabFawn6.md",
+    "zImages/LabFawn/LabFawn6.png",
     "zImages/LabMeow/LabMeow1.png",
     "Pasted image 20240417145036.png",
     "zImages/LabFawn/LabFawn5.png",
@@ -158,8 +165,6 @@
     "zImages/LabFawn/LabFawn3.png",
     "zImages/LabFawn/LabFawn2.png",
     "zImages/LabFawn/LabFawn1.png",
-    "zImages/LabMeow/LabMeow3.png",
-    "zImages/LabMeow/LabMeow2.png",
     "zImages/LabMeow",
     "Labs/Meow.md",
     "zImages/LabFawn",
